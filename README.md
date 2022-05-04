@@ -1,4 +1,4 @@
-# Client API
+# ECHO-SIMPLE-API
 
 #### Just a Hello-world project to test the ECHO framework functionality.
 
